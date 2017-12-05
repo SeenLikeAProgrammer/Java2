@@ -1,0 +1,15 @@
+ "result"    : true
+		,"data"		: [
+						{
+							 "type" : {
+								  "value" : "аппартаменты - {appartment}" 
+ 								  },
+							"builddate" : "2008-01-20"
+							,"material" : "кирпич"
+							,"square" : "234,4"
+							,"modelVersion" : "tags.1.0"
+						}
+					тут будут еще объекты ваших типов
+
+					  ]
+   }
